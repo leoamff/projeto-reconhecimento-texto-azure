@@ -22,6 +22,3 @@ Este projeto faz parte do curso da DIO sobre **Inteligência Artificial com Micr
 ---
 
 
-### 📌 Texto Reconhecido
-```txt
-Texto reconhecido: "Azure é uma plataforma poderosa para IA."

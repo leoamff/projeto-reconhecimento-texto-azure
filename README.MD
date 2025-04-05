@@ -19,6 +19,6 @@ Este projeto faz parte do curso da DIO sobre **Inteligência Artificial com Micr
 3. Salvei os resultados reconhecidos em formato `.txt`
 4. Organizei os arquivos em pastas separadas e fiz esta documentação com prints e observações.
 
----
+
 
 
